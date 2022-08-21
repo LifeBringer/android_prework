@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="lifebringer_intro">Hello World! My name is LifeBringer, I am testing out Kotlin! I am very excited about android development.</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
